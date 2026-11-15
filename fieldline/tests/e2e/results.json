@@ -1,0 +1,128 @@
+[
+ {
+  "name": "E01 every precached asset returns HTTP 200 and the shell list matches the files on disk",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 0.2
+ },
+ {
+  "name": "E02 every JavaScript import specifier resolves to an existing file",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 0.0
+ },
+ {
+  "name": "E03 vault lifecycle: weak/mismatch rejected, create, manual lock, wrong passphrase rejected, unlock, reload stays locked",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 3.8
+ },
+ {
+  "name": "E04 automatic idle lock engages after the idle timeout (browser clock fast-forwarded)",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 1.5
+ },
+ {
+  "name": "E05 UI navigation: all ten pages open without errors, keyboard shortcuts and Escape work",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 5.8
+ },
+ {
+  "name": "E06 incident persistence: validation, encrypted save, timeline, hash chain, attachment bytes preserved, survives reload",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 3.7
+ },
+ {
+  "name": "E07 evidence export: weak package passphrase rejected, .flpkg produced, queued, duplicate import of own export refused",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 3.1
+ },
+ {
+  "name": "E08 evidence import on a fresh vault: wrong passphrase, tampered, random and truncated files rejected; valid import verifies each check, shows time warning, preserves bytes; second import refused",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 6.9
+ },
+ {
+  "name": "E09 SOP: start, save progress, resume after reload, complete, export report; create + import validation",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 5.9
+ },
+ {
+  "name": "E10 offline: precache installs, cache count equals shell size, app reloads and works with the network off",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 6.9
+ },
+ {
+  "name": "E11 data persists after the browser is fully closed and restarted (persistent profile)",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 3.6
+ },
+ {
+  "name": "E12 missing microphone and camera: clear unavailable states; WAV analysis and manual navigation still work",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 2.0
+ },
+ {
+  "name": "E13 live microphone (fake device): real measurements, recording, playback element, WAV export, attach to incident",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 5.7
+ },
+ {
+  "name": "E14 training is synthetic and separate: drill scored, records isolated from incidents",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 4.2
+ },
+ {
+  "name": "E15 privacy: no request leaves localhost during a full session; external translation endpoint refused; manual translation works",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 5.8
+ },
+ {
+  "name": "E16 backup and restore: restore replaces newer data with the backup; backup file contains no plaintext",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 4.9
+ },
+ {
+  "name": "E17 stored incident data is ciphertext in IndexedDB (no plaintext title or text)",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 1.8
+ },
+ {
+  "name": "E18 complete local-data deletion: typed confirmation, passphrase check, database empty, fresh vault creation offered",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 6.0
+ },
+ {
+  "name": "E20 camera (fake device): CAMERA ON indicator, live preview, keeps running across pages, stops on request and when the vault locks",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 3.4
+ },
+ {
+  "name": "E21 buttons whose effect is not visible in the page text: bundled phrase, stop-recording with none active, update check",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 2.4
+ },
+ {
+  "name": "E19 no console or page errors (including CSP violations) occurred anywhere in the suite",
+  "status": "PASS",
+  "detail": "",
+  "seconds": 0.0
+ }
+]

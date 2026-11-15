@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0b1220">
+<title>FIELDLINE: field operations and incident assurance</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app">
+  <header id="topbar" aria-label="System status">
+    <div class="brand"><svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true"><path d="M2 16h5l3-9 5 18 4-14 3 5h8" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>FIELDLINE</span></div>
+    <div class="status" id="status" role="status"></div>
+  </header>
+  <nav id="sidebar" aria-label="Main navigation"></nav>
+  <main id="main" tabindex="-1"></main>
+  <aside id="side" aria-label="Situation panel"></aside>
+</div>
+<div id="overlay" hidden></div>
+<div id="toasts" aria-live="polite"></div>
+<noscript>FIELDLINE needs JavaScript.</noscript>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
