@@ -1,0 +1,8 @@
+{
+  "name": "fieldline",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "FIELDLINE: offline-first field operations and incident assurance workstation (no dependencies)",
+  "scripts": { "test:unit": "node --test tests/unit/*.test.mjs", "serve": "python3 server.py" }
+}

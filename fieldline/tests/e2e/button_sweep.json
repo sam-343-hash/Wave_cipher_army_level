@@ -1,0 +1,320 @@
+{
+ "rows": [
+  [
+   "overview",
+   "New incident",
+   "acts"
+  ],
+  [
+   "overview",
+   "Open audio lab",
+   "acts"
+  ],
+  [
+   "overview",
+   "Start a checklist",
+   "acts"
+  ],
+  [
+   "overview",
+   "Verify or import a package",
+   "acts"
+  ],
+  [
+   "evidence",
+   "Verify only",
+   "acts"
+  ],
+  [
+   "evidence",
+   "Verify and import",
+   "acts"
+  ],
+  [
+   "evidence",
+   "Download",
+   "acts"
+  ],
+  [
+   "evidence",
+   "Mark transferred",
+   "acts"
+  ],
+  [
+   "evidence",
+   "Remove",
+   "acts"
+  ],
+  [
+   "signal",
+   "Start microphone and recording",
+   "acts"
+  ],
+  [
+   "signal",
+   "Stop",
+   "skipped (disabled or would end the session)"
+  ],
+  [
+   "incidents",
+   "New incident",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "\u2190 All incidents",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "Save report",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "Add entry",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "Download",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "Encrypt and export package",
+   "acts"
+  ],
+  [
+   "incident-detail",
+   "Delete incident",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Start",
+   "acts"
+  ],
+  [
+   "sop",
+   "Resume",
+   "acts"
+  ],
+  [
+   "sop",
+   "Resume",
+   "acts"
+  ],
+  [
+   "sop",
+   "Resume",
+   "acts"
+  ],
+  [
+   "run",
+   "\u2190 All checklists",
+   "acts"
+  ],
+  [
+   "run",
+   "Complete checklist",
+   "acts"
+  ],
+  [
+   "run",
+   "Export report (text)",
+   "acts"
+  ],
+  [
+   "run",
+   "Export data (JSON)",
+   "acts"
+  ],
+  [
+   "translate",
+   "Start dictation",
+   "acts"
+  ],
+  [
+   "translate",
+   "Translate with local server",
+   "skipped (disabled or would end the session)"
+  ],
+  [
+   "translate",
+   "Insert bundled phrase",
+   "NO VISIBLE EFFECT"
+  ],
+  [
+   "translate",
+   "Copy both",
+   "acts"
+  ],
+  [
+   "translate",
+   "Export as text",
+   "acts"
+  ],
+  [
+   "translate",
+   "Attach both to incident",
+   "acts"
+  ],
+  [
+   "translate",
+   "Generate report",
+   "acts"
+  ],
+  [
+   "translate",
+   "Export",
+   "acts"
+  ],
+  [
+   "translate",
+   "Attach to incident",
+   "acts"
+  ],
+  [
+   "gesture",
+   "Start camera",
+   "acts"
+  ],
+  [
+   "gesture",
+   "Go to overview",
+   "acts"
+  ],
+  [
+   "gesture",
+   "Previous page",
+   "acts"
+  ],
+  [
+   "gesture",
+   "Next page",
+   "acts"
+  ],
+  [
+   "gesture",
+   "Stop recording",
+   "NO VISIBLE EFFECT"
+  ],
+  [
+   "training",
+   "Generate drill packages",
+   "skipped (disabled or would end the session)"
+  ],
+  [
+   "training",
+   "Run verifier",
+   "acts"
+  ],
+  [
+   "training",
+   "Run verifier",
+   "acts"
+  ],
+  [
+   "training",
+   "Run verifier",
+   "acts"
+  ],
+  [
+   "training",
+   "Run verifier",
+   "acts"
+  ],
+  [
+   "training",
+   "Submit answers",
+   "acts"
+  ],
+  [
+   "training",
+   "Finish and score",
+   "acts"
+  ],
+  [
+   "training",
+   "Submit report",
+   "acts"
+  ],
+  [
+   "training",
+   "Run offline check",
+   "acts"
+  ],
+  [
+   "security",
+   "Lock now",
+   "skipped (disabled or would end the session)"
+  ],
+  [
+   "security",
+   "Request persistent storage",
+   "acts"
+  ],
+  [
+   "security",
+   "Open Evidence Vault",
+   "acts"
+  ],
+  [
+   "security",
+   "Create backup",
+   "acts"
+  ],
+  [
+   "security",
+   "Erase all local data",
+   "acts"
+  ],
+  [
+   "settings",
+   "Save",
+   "acts"
+  ],
+  [
+   "settings",
+   "Check for update",
+   "NO VISIBLE EFFECT"
+  ],
+  [
+   "settings",
+   "Clear app cache",
+   "acts"
+  ],
+  [
+   "settings",
+   "Measure",
+   "acts"
+  ]
+ ],
+ "errors": []
+}
